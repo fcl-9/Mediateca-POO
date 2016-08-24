@@ -7,3 +7,4 @@ everything that makes part of OOP. From inheritance to polimorfism, etc...
  
 It is a pretty terminal app that allows someone to manage a collection of Cd's and DVD's.
 
+Graded by Dr. Mónica Cameirão @ University of Madeira
